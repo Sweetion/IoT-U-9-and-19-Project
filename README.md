@@ -66,3 +66,6 @@ ________________________________________
 arduino
 http://<your_pi_ip>:5000/submit
 ________________________________________
+# Project Contributors:
+# This project was developed by Brad, Max, Rosario, and Amar.
+# Team Lead: Amar
