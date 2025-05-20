@@ -1,0 +1,1 @@
+print("🏆 Perfect score! You're a cyber security master!")
